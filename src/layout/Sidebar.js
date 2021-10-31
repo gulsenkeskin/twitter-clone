@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import SideLink from '../componenets/SideLink';
+import UserBox from '../componenets/UserBox';
 
 import { HomeIcon, ExploreIcon, NotificationsIcon, MessagesIcon, BookmarksIcon, ListsIcon, ProfileIcon, MoreIcon, TwitterIcon, } from '../icons/icons';
 
@@ -55,8 +56,8 @@ const Sidebar = () => {
                     </ul>
                 </nav>
                 <button className="bg-primary-base text-white shadow-lg hover:bg-primary-dark rounded-full py-3 px-8 w-11/12 transform transition-colors duration-200">Tweet</button>
-
             </div>
+            <UserBox></UserBox>
         </div>
     )
 }
