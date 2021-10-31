@@ -10,6 +10,7 @@ const App = () => {
       <Sidebar></Sidebar>
       <Content></Content>
       <Widgets></Widgets>
+
     </Container>
   )
 }
