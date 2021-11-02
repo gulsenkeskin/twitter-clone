@@ -47,7 +47,7 @@ const Sidebar = () => {
         setActive(name)
     }
     return (
-        <div className="flex flex-col justify-between w-72 px-2">
+        <div className="h-screen sticky top-0 flex flex-col justify-between w-72 px-2">
             <div>
                 <TwitterIcon className="w-9 h-9 text-primary-base" />
                 <nav className="mb-4">
