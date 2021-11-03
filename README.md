@@ -1,5 +1,5 @@
-# Youtube codingwithdidem kanalının videolarından yola çıkılarak oluşturulmuştur. :) 
-# Created based on the videos of Youtube codingwithdidem channel
+## Youtube codingwithdidem kanalının videolarından yola çıkılarak oluşturulmuştur. :) 
+## Created based on the videos of Youtube codingwithdidem channel
 
 # Getting Started with Create React App
 
