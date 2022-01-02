@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Not:
 ## Youtube codingwithdidem kanalının videolarından yola çıkılarak oluşturulmuştur. :) 
-## Created based on the videos of Youtube codingwithdidem channel
+## Created based on the videos of Youtube codingwithdidem channel :)
